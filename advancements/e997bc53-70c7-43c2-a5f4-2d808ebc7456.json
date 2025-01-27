@@ -1,0 +1,48 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-01-26 21:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_ocean": "2025-01-26 21:42:42 +0000",
+      "minecraft:beach": "2025-01-26 21:49:35 +0000",
+      "minecraft:frozen_river": "2025-01-26 21:42:36 +0000",
+      "minecraft:taiga": "2025-01-26 21:42:25 +0000",
+      "minecraft:deep_frozen_ocean": "2025-01-26 21:49:59 +0000",
+      "minecraft:river": "2025-01-26 21:49:31 +0000",
+      "minecraft:grove": "2025-01-26 21:42:11 +0000",
+      "minecraft:stony_shore": "2025-01-26 21:50:51 +0000",
+      "minecraft:snowy_plains": "2025-01-26 21:49:39 +0000",
+      "minecraft:snowy_taiga": "2025-01-26 21:42:44 +0000",
+      "minecraft:snowy_beach": "2025-01-26 21:49:49 +0000",
+      "minecraft:plains": "2025-01-26 21:48:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-26 21:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-26 21:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-01-26 21:44:14 +0000",
+      "minecraft:nether_wastes": "2025-01-26 21:43:53 +0000",
+      "minecraft:soul_sand_valley": "2025-01-26 21:44:28 +0000",
+      "minecraft:basalt_deltas": "2025-01-26 21:42:59 +0000",
+      "minecraft:warped_forest": "2025-01-26 21:44:10 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 4189
+}
